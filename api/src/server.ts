@@ -9,7 +9,7 @@ import "./database";
 import "@shared/container";
 
 import { AppError } from '@errors/AppError';
-import { router } from './routes';
+import { router } from './shared/infra/http/routes';
 
 const app = express();
 
