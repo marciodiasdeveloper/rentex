@@ -1,1 +1,1 @@
-# rentex
+# NodeJS Express Rentex Project
